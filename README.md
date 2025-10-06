@@ -1,3 +1,5 @@
+<img width="527" height="538" alt="image" src="https://github.com/user-attachments/assets/f78634af-a2c1-4961-bb53-09a246c39c12" />
+
 # LLM From Scratch (PyTorch)
 
 This repository implements a complete Large Language Model (LLM) from scratch using PyTorch. The objective is to understand and reproduce the end-to-end process of modern language model development, including architecture design, data processing, optimization, and alignment through reinforcement learning.
