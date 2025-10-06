@@ -12,13 +12,6 @@ The project follows a progressive structure, starting from the fundamental trans
 
 ---
 
-## Environment Setup
-
-```bash
-conda create -n llm_from_scratch python=3.11
-conda activate llm_from_scratch
-pip install -r requirements.txt
-```
 
 The environment is configured for GPU acceleration using CUDA where available. Mixed precision and profiling tools are used for efficient computation and performance monitoring.
 
